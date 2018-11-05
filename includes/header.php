@@ -1,4 +1,4 @@
-<?php 
+<?php
   $companyName = "Franklin's Fine Dining";
   include('includes/arrays.php');
 ?>
@@ -8,7 +8,7 @@
     
   <head>
     <meta charset="utf-8">
-    <title>Code Dynamic Websites with PHP</title>
+    <title><?php echo TITLE; ?></title>
     <link rel="stylesheet" href="styles/styles.css">
   </head>
     
