@@ -1,6 +1,7 @@
 <?php
   $companyName = "Franklin's Fine Dining";
   include('includes/arrays.php');
+  include('includes/functions.php')
 ?>
 
 <!DOCTYPE html>
